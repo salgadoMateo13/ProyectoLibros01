@@ -1,0 +1,12 @@
+# creación proyecto libros
+npm créate vite@latest proyecto_libros
+cd proyecto_libros
+code .
+
+# creo el archivo workspace
+
+# creación de carpetas de la lógica del negocio
+md src\assets\img
+md src\app\componentes
+......
+....
