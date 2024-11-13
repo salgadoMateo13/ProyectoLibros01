@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import miLogo from "../../../assets/img/logoReact.png";
+import miLogo from "../../../assets/img/LogoLibros.jpg";
 
 export const Cabecera = () => {
   return (
